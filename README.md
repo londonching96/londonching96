@@ -11,4 +11,6 @@ Skills: HTML / CSS / JS
 📬 You may reach me at londonching96@gmail.com
 
 
+#### Connect with me:
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/londonching/)  
