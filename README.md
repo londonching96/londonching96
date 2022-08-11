@@ -1,12 +1,12 @@
 ![Nice to meet you!](1631040705725.jpg)
-### Hi there 👋, my name is London.
-#### I do design and development.
+### Hi there 👋, my name is London
+#### I do design and development
 
 I'm London from San Francisco and I enjoy design and development. I am self taught and hope to update this page as I learn.
 
 Skills: HTML / CSS / JS
 
-🌱 I’m currently learning Javascript.
+🌱 I’m currently learning Javascript
 
 📬 You may reach me at londonching96@gmail.com
 
