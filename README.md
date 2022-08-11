@@ -7,6 +7,7 @@ I'm London from San Francisco and I enjoy design and development. I am self taug
 Skills: HTML / CSS / JS
 
 🌱 I’m currently learning Javascript 
+
 📬 You may reach me at londonching96@gmail.com
 
 
